@@ -9,5 +9,6 @@ return null;
 }
 
 main()
+//there is nothing to show in the main
 
 //console.log(main)
